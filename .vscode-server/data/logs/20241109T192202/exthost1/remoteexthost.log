@@ -1,0 +1,145 @@
+2024-11-09 19:22:03.615 [info] Extension host with pid 3274 started
+2024-11-09 19:22:03.676 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-09 19:22:03.717 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-09 19:22:03.717 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-09 19:22:03.966 [info] Eager extensions activated
+2024-11-09 19:22:03.967 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-09 19:22:03.967 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-09 19:24:01.554 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-09 19:24:16.944 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4083
+2024-11-09 19:24:17.466 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4083
+2024-11-09 19:24:18.959 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4083
+2024-11-09 19:24:24.030 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4083
+2024-11-09 19:24:29.087 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4083
+2024-11-09 19:24:34.135 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4083
+2024-11-09 19:24:39.201 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4083
+2024-11-09 19:24:44.266 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4083
+2024-11-09 19:24:49.318 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4083
+2024-11-09 19:24:54.368 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4083
+2024-11-09 19:24:59.419 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4083
+2024-11-09 19:25:04.479 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4083
+2024-11-09 19:25:09.533 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4083
+2024-11-09 19:25:14.583 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4083
+2024-11-09 19:25:19.638 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4083
+2024-11-09 19:25:24.693 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4083
+2024-11-09 19:25:29.764 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4083
+2024-11-09 19:25:34.818 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4083
+2024-11-09 19:25:39.879 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4083
+2024-11-09 19:25:44.929 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4083
+2024-11-09 19:43:58.138 [warning] [Decorations] CAPPING events from decorations provider vscode.git 4083
+2024-11-09 19:44:00.390 [info] Extension host terminating: received terminate message from renderer
+2024-11-09 19:44:00.451 [error] Canceled: Canceled
+	at new tT (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:151066)
+	at py.U (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:155676)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:153170)
+	at Y0.g (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at mh.O [as value] (/home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/extensions/git/dist/main.js:2:961845)
+	at P.B (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at P.C (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+	at P.fire (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+	at Object.p [as dispose] (/home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/extensions/git/dist/main.js:2:983333)
+	at /home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/extensions/git/dist/main.js:2:989455
+	at Array.forEach (<anonymous>)
+	at b.dispose (/home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/extensions/git/dist/main.js:2:989441)
+	at V1.<anonymous> (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:108:19994)
+	at V1.dispose (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+	at V1.<anonymous> (/home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/extensions/git/dist/main.js:2:964255)
+	at V1.dispose (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+	at ci (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:24:699)
+	at file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:118:14992
+	at file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:24:1009
+	at Object.dispose (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at _z.eb (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:118:11919)
+	at file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at _z.$ (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at _z.terminate (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at xC.terminate (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:174:15063)
+	at mh.value (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:174:13224)
+	at P.B (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at P.fire (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+	at Vn.fire (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:9457)
+	at Fm.A (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:12573)
+	at mh.value (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:10993)
+	at P.B (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at P.fire (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+	at j5.acceptChunk (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:7940)
+	at mh.value (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:7226)
+	at P.B (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at P.fire (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+	at V2.z (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:21944)
+	at V2.acceptFrame (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:21750)
+	at W2.n (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:20278)
+	at file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:17510
+	at Socket.t (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:15451)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-11-09 19:44:00.453 [error] Canceled: Canceled
+	at new tT (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:151066)
+	at py.U (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:155676)
+	at s.<computed>.n.charCodeAt.s.<computed> (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:153170)
+	at Y0.g (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:114:32313)
+	at Y0.executeCommand (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at r.registerCommand.description (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:114:31147)
+	at Y0.h (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:114:32833)
+	at Y0.g (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:114:31910)
+	at Y0.executeCommand (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:114:31817)
+	at Object.executeCommand (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:156:37246)
+	at set hasGitHubRepositories [as hasGitHubRepositories] (/home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/extensions/github/dist/extension.js:2:328633)
+	at /home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/extensions/github/dist/extension.js:2:329592
+	at mh.value (/home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/extensions/git/dist/main.js:2:1073936)
+	at P.B (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at P.C (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:29:816)
+	at P.fire (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:29:1033)
+	at Object.p [as dispose] (/home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/extensions/git/dist/main.js:2:983333)
+	at /home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/extensions/git/dist/main.js:2:989455
+	at Array.forEach (<anonymous>)
+	at b.dispose (/home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/extensions/git/dist/main.js:2:989441)
+	at V1.<anonymous> (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:108:19994)
+	at V1.dispose (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+	at V1.<anonymous> (/home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/extensions/git/dist/main.js:2:964255)
+	at V1.dispose (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:108:20090)
+	at ci (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:24:699)
+	at file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:118:14992
+	at file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:24:1009
+	at Object.dispose (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:7:2146)
+	at _z.eb (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:118:11919)
+	at file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:118:9874
+	at Array.map (<anonymous>)
+	at _z.$ (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:118:9862)
+	at _z.terminate (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:118:10105)
+	at xC.terminate (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:119:1424)
+	at Zi (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:174:15063)
+	at mh.value (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:174:13224)
+	at P.B (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at P.fire (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+	at Vn.fire (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:9457)
+	at Fm.A (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:12573)
+	at mh.value (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:10993)
+	at P.B (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at P.fire (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+	at j5.acceptChunk (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:7940)
+	at mh.value (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:7226)
+	at P.B (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:29:746)
+	at P.fire (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:29:964)
+	at V2.z (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:21944)
+	at V2.acceptFrame (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:21750)
+	at W2.n (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:20278)
+	at file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:17510
+	at Socket.t (file:///home/florez/.vscode-server/bin/e8653663e8840adaf45af01eab5c627a5af81807/out/vs/workbench/api/node/extensionHostProcess.js:31:15451)
+	at Socket.emit (node:events:519:28)
+	at addChunk (node:internal/streams/readable:559:12)
+	at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+	at Readable.push (node:internal/streams/readable:390:5)
+	at TCP.onStreamRead (node:internal/stream_base_commons:191:23) setContext undefined
+2024-11-09 19:44:00.454 [info] Extension host with pid 3274 exiting with code 0

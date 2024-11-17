@@ -1,0 +1,21 @@
+# Ejercicio de ejempo script
+echo Hola sanguijuela
+
+num1=10
+num2=5
+
+if [ $num1 -gt $num2 ]; then  
+echo "num1 es $num1 y es mayor que $num2"
+fi
+
+echo Heramienta de while loop
+# $ nano while_loop.sh
+
+#!/bin/bash
+# Basic while loop
+counter=1
+while [ $counter -le 10 ]
+do
+echo $counter
+((counter++))
+done

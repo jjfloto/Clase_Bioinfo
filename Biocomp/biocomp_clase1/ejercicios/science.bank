@@ -1,0 +1,11 @@
+--2024-07-22 14:31:45--  https://users.cs.duke.edu/~alvy/courses/unixtut/science.txt
+Resolving users.cs.duke.edu (users.cs.duke.edu)... 152.3.141.55
+Connecting to users.cs.duke.edu (users.cs.duke.edu)|152.3.141.55|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7767 (7.6K) [text/plain]
+Saving to: ‘science.txt.1’
+
+     0K .......                                               100% 9.20M=0.001s
+
+2024-07-22 14:31:49 (9.20 MB/s) - ‘science.txt.1’ saved [7767/7767]
+

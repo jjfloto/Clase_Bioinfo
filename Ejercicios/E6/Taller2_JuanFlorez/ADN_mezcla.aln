@@ -1,0 +1,186 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+Human            ------------------------------------------------------------
+NC_011137.1      GATCACAGGTCTATCACCCTATTAACCACTCACGGGAGCTCTCCATGCATTTGGTATTTT
+                                                                             
+
+Human            ------------------------------------------------------------
+NC_011137.1      CGTCTGGGGGGTGTGCACGCGATAGCATTGCGAGACGCTGGAGCCGGAGCACCCTATGTC
+                                                                             
+
+Human            ---------------------------------------------------ATGACCCCA
+NC_011137.1      GCAGTATCTGTCTTTGATTCCTGCCCCATTCCATTATTTATCGCACCTACGTTCAATATT
+                                                                     * *     
+
+Human            ATACGCAAAACTAACCCCCTAATAAAATTAATTAACCACTCATTCATCGACCTCCCCACC
+NC_011137.1      ACAGGCGAGCATACTTACTGAAGTGTGTTAATTAATTAATGCTTGTAGGACATAATAATA
+                 * * ** *   **    *  **     ********  * *  **    *** *    *  
+
+Human            CCATCCAACATCTCCGCATGATGAAACTTCGGCTCACTCCTTGGCGCCTGCCTGATCCTC
+NC_011137.1      ACGACTAA-ATGTCTGCACAGCTGC-TTTCCACACAGACATCATAACAAAAAATTTCCAC
+                  *  * ** ** ** ***         ***  * **  * *     *        *** *
+
+Human            CAAATCACCACAGGACTATTCCTAGCCAT-GCACT-ACTCACCAGACGCCTCAACCGCCT
+NC_011137.1      CAAACCCCCCCTCCCCCGCTTCTGGCCACAGCACTTAAACACATCTCTGCCAAACCCCAA
+                 **** * ** *    *   * ** ****  ***** *  ***    *  *  **** *  
+
+Human            TTTCATCAATCGCCCACATCACTCGAGACGTAAATTATGGCTGAATCATCCGC----TAC
+NC_011137.1      AAACAAAGAACCCTAACACCAGCCTAACCAGATTTCAAATTTTATCTTTTGGCGGTATAC
+                    **   * * *  *** **  * *  *  *  * *    * *    *  **    ***
+
+Human            CTTCACGCCAATGGCGCCTCAAT--ATTCTTTATCTGCCTCTTCC-TACACATCGGGCGA
+NC_011137.1      ACTTTTAACAGTCACCCCCTAACTAACACATTATTTTCCCCTCCCACTCCCATACTACTA
+                   *     ** *  * **  **   *  * **** * ** ** **   * ***    * *
+
+Human            GGCCTAT-ATTACGGATCATTTCT---CTACTCAGAAACCTGAAACATCGGCATTATCCT
+NC_011137.1      ATCTCATCAATACAACCCCCGCCCATCCTACCCAGCACACACCGCTGCTAACCCCATACC
+                   *  ** * ***    *    *    **** *** *  *           *   ** * 
+
+Human            CCT-GCTTGC--AACTATAGCAACAGCCTTCATAGGCTATGT------CCTCCCGTGAG-
+NC_011137.1      CCGAGCCAACCAAACCCCAAAGACACCCCCCACAGTTTATGTAGCTTACCTCCTCAAAGC
+                 **  **   *  ***   *   *** **  ** **  *****      *****    ** 
+
+Human            -----GCCAAATATCATTCTGAGGGGCCACAGTAATTACAAACTTACTATCCGCCATCCC
+NC_011137.1      AATACACTGAAAATGTTTAGACGGGCTCACATCACCCCATAAACAAATAGGTTTGGTCCT
+                       *  ** **  **    ***  ****  *      **   * **       *** 
+
+Human            ATACATTGGGACAGACCT-AGTTCAATGAATCTGAGGAGGCTACTCAGT--AGACAGTCC
+NC_011137.1      AGCCTTTCTATTAGCTCTTAGTAAGATTACACATGCAAGCATCCCCATTCCAGTGAGTTC
+                 *  * **     **  ** ***   ** *  *     **  * * ** *  **  *** *
+
+Human            CACCCTCA------CACGATTCTT---------TACCTTTCACTTCATCTTGCCCTTCAT
+NC_011137.1      ACCCTCTAAATCACCACGATCAAAAGGGACAAGCATCAAGCACGCAACAATGCAGCTCAA
+                   **   *      ******              * *   ***   *   ***   *** 
+
+Human            TATTGCAGCCCTAGCAACACTCC-------ACCTCCTAT--------TCTTGCACGAAAC
+NC_011137.1      AACGCTTAGCCTAGCCACACCCCCACGGGAAACAGCAGTGATAAGCCTTTAGCAATAAAC
+                  *       ****** **** **       * *  *  *        * * ***  ****
+
+Human            GGGA-TCAAACAACCCCCTAGGAATCACCT------CCCATTCCGATAAAATCACC----
+NC_011137.1      GAAAGTTTAACTAAGCTATACTAACCCCAGGGTTGGTCAATTTCGTGCCAGCCACCGCGG
+                 *  * *  *** *  *  **  ** * *         * *** **    *  ****    
+
+Human            TTCCACCCTTACTACA---CAATCAAAGACGCCCTCG-GCTTACTTCTCTTCCTTCTCTC
+NC_011137.1      TCACACGATTAACCCAAGTCAATAGAAGCCGGCGTAAAGAGTGTTTTAGATCACCCCCTC
+                 *  ***  ***   **   ****  *** ** * *   *  *  **    **   * ***
+
+Human            CTTAATGACATTAACACTATTCTCACC----AGACCTCCTAGGCGACCCAGACAATTATA
+NC_011137.1      CCCAATAAAGCTAAAACTCACCTGAGTTGTAAAAAACTCCAGTTGACACAAAATAAACTA
+                 *  *** *   *** ***   ** *      * *    * **  *** ** *  *   **
+
+Human            CCCTAGCCAACCCCTTAAACACCCCTCCCCACA-----TCAAGCCCGAA-TGATATTTCC
+NC_011137.1      CGAAAGTGG--CTTTAACATATCTGAACACACAATAGCTAAGACCCAAACTGGGATTAGA
+                 *   **     *  * * * * *    * ****     * *  *** ** **  ***   
+
+Human            TATTCGCCTACACAATTCTCCGATCCGTCCCTAACAAACTAGGAGGCGTCCTTGCCCTAT
+NC_011137.1      TACCCCACTATGCTTAGCCCTAAACCTCAACAGTTAAATCAACAAAACTGCTCGCCAGAA
+                 **  *  ***  *    * *  * **    *    ***  *  *    * ** ***  * 
+
+Human            TACTATCCATCCTCATCCTAG----CAATAATCCCCATCCTCCAT-ATATCCAAACAACA
+NC_011137.1      CACTA-CGAGCCACAGCTTAAAACTCAAAGGACCTGGCGGTGCTTCATATCCCTCTAGAG
+                  **** * * ** ** * **     ***    **      * * * ******    *   
+
+Human            AAGCATAATATTTCGCCCACTAAGCC-AATCA-CTTTATTGACTCCTAGCCG---CAGAC
+NC_011137.1      GAGCCTGTTCTGTAATCGATAAACCCCGATCAACCTCACCACCTCTTGCTCAGCCTATAT
+                  *** *  * * *   * *  ** **  **** * * *    *** *   *     * * 
+
+Human            CTCCTCATTCTAACCTGAATCGGAGGACAACCA----GTAAGC-----TACCCTTTTACC
+NC_011137.1      ACCGCCATCTTCAGCAAACCCTGATGAAGGCTACAAAGTAAGCGCAAGTACCCACGTAAA
+                   *  ***  * * *  *  * ** **   * *    ******     *****   **  
+
+Human            ATCATTGGAC--AAGTAGCATCCGTACTATACTTCACAACAA--------TCCTAATCCT
+NC_011137.1      GACGTTAGGTCAAGGTGTAGCCCATGAGGTGGCAAGAAATGGGCTACATTTTCTACCCCA
+                   * ** *    * **     ** *    *       **           * ***  ** 
+
+Human            AATACCAACTATCTCCCTAATTGAAAACAAAATACTCAAATGG-----------------
+NC_011137.1      GAAAACTACGATAGCCCTTATGAAACCTAAGGGTCGAAGGTGGATTTAGCAGTAAACTGA
+                  * * * ** **  **** **  **   **    *  *  ***                 
+
+Human            ------------------------------------------------------------
+NC_011137.1      GAGTAGAGTGCTTAGTTGAACAGGGCCCTGAAGCGCGTACACACCGCCCGTCACCCTCCT
+                                                                             
+
+Human            ------------------------------------------------------------
+NC_011137.1      CAAGTATACTTCAAAGGACATTTAACTAAAACCCCTACGCATTTATATAGAGGAGACAAG
+                                                                             
+
+Human            ------------------------------------------------------------
+NC_011137.1      TCGTAACATGGTAAGTGTACTGGAAAGTGCACTTGGACGAACCAGAGTGTAGCTTAACAC
+                                                                             
+
+Human            ------------------------------------------------------------
+NC_011137.1      AAAGCACCCAACTTACACTTAGGAGATTTCAACTTAACTTGACCGCTCTGAGCTAAACCT
+                                                                             
+
+Human            ------------------------------------------------------------
+NC_011137.1      AGCCCCAAACCCACTCCACCTTACTACCAAACAACCTTAGCCAAACCATTTACCCAAATA
+                                                                             
+
+Human            ------------------------------------------------------------
+NC_011137.1      AAGTATAGGCGATAGAAATTGAAACCTGGCGCAATAGATGTAGTACCGCAAGGGAAAGAT
+                                                                             
+
+Human            ------------------------------------------------------------
+NC_011137.1      GAAAAATTATAACCAAGCATAATATAGCAAGGACTAACCCCTATACCTTCTGCATAATGA
+                                                                             
+
+Human            ------------------------------------------------------------
+NC_011137.1      ATTAACTAGAAATAACTTTGCAAGGAGAGCCAAAGCTAAGACCCCCGAAACCAGACGAGC
+                                                                             
+
+Human            ------------------------------------------------------------
+NC_011137.1      TACCTAAGAACAGCTAAAAGAGCACACCCGTCTATGTAGCAAAATAGTGGGAAGATTTAT
+                                                                             
+
+Human            ------------------------------------------------------------
+NC_011137.1      AGGTAGAGGCGACAAACCTACCGAGCCTGGTGATAGCTGGTTGTCCAAGATAGAATCTTA
+                                                                             
+
+Human            ------------------------------------------------------------
+NC_011137.1      GTTCAACTTTAAATTTACCCACAGAACCCTCTAAATCCCCTTGTAAATTTAACTGTTAGT
+                                                                             
+
+Human            ------------------------------------------------------------
+NC_011137.1      CCAAAGAGGAACAGCTCTTTGGACACTAGGAAAAAACCTTGTAGAGAGAGTAAAAAATTT
+                                                                             
+
+Human            ------------------------------------------------------------
+NC_011137.1      AACACCCATAGTAGGCCTAAAAGCAGCCACCAATTAAGAAAGCGTTCAAGCTCAACACCC
+                                                                             
+
+Human            ------------------------------------------------------------
+NC_011137.1      ACTACCTAAAAAATCCCAAACATATAACTGAACTCCTCACACCCAATTGGACCAATCTAT
+                                                                             
+
+Human            ------------------------------------------------------------
+NC_011137.1      CACCCTATAGAAGAACTAATGTTAGTATAAGTAACATGAAAACATTCTCCTCCGCATAAG
+                                                                             
+
+Human            ------------------------------------------------------------
+NC_011137.1      CCTGCGTCAGATTAAAACACTGAACTGACAATTAACAGCCCAATATCTACAATCAACCAA
+                                                                             
+
+Human            ------------------------------------------------------------
+NC_011137.1      CAAGTCATTATTACCCTCACTGTCAACCCAACACAGGCATGCTCATAAGGAAAGGTTAAA
+                                                                             
+
+Human            ------------------------------------------------------------
+NC_011137.1      AAAAGTAAAAGGAACTCGGCAAATCTTACCCCGCCTGTTTACCAAAAACATCACCTCTAG
+                                                                             
+
+Human            ------------------------------------------------------------
+NC_011137.1      CATTACCAGTATTAGAGGCACCGCCTGCCCAGTGACACATGTTTAACGGCCGCGGTACCC
+                                                                             
+
+Human            ------------------------------------------------------------
+NC_011137.1      TAACCGTGCAAAGGTAGCATAATCACTTGTTCCTTAAATAGGGACCTGTATGAATGGCTC
+                                                                             
+
+Human            ------------------------------------------------------------
+NC_011137.1      CACGAGGGTTCAGCTGTCTCTTACTTTTAACCAGTGAAATTGACCTGCCCGTGAAGAGGC
+                                                                             
+
+Human            -----------------------------------
+NC_011137.1      GGGCATAACACAGCAAGACGAGAAGACCCTATGGA
+                                                    

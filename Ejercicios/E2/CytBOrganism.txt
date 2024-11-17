@@ -1,0 +1,48 @@
+el id es: Lungfish su # de nc es: 1144
+longitud de mRNA 1144
+longitud de proteina 381
+el id es: Shark su # de nc es: 1144
+longitud de mRNA 1144
+longitud de proteina 381
+el id es: Frog su # de nc es: 1140
+longitud de mRNA 1140
+longitud de proteina 380
+el id es: Salamander su # de nc es: 1141
+longitud de mRNA 1141
+longitud de proteina 380
+el id es: Turtle su # de nc es: 1144
+longitud de mRNA 1144
+longitud de proteina 381
+el id es: Alligator su # de nc es: 1159
+longitud de mRNA 1159
+longitud de proteina 386
+el id es: Falcon su # de nc es: 1143
+longitud de mRNA 1143
+longitud de proteina 381
+el id es: Ostrich su # de nc es: 1140
+longitud de mRNA 1140
+longitud de proteina 380
+el id es: Cod su # de nc es: 1161
+longitud de mRNA 1161
+longitud de proteina 387
+el id es: Armadillo su # de nc es: 1140
+longitud de mRNA 1140
+longitud de proteina 380
+el id es: Elephant su # de nc es: 1137
+longitud de mRNA 1137
+longitud de proteina 379
+el id es: Human su # de nc es: 1137
+longitud de mRNA 1137
+longitud de proteina 379
+el id es: Dog su # de nc es: 1140
+longitud de mRNA 1140
+longitud de proteina 380
+el id es: Wombat su # de nc es: 1146
+longitud de mRNA 1146
+longitud de proteina 382
+el id es: Platypus su # de nc es: 1140
+longitud de mRNA 1140
+longitud de proteina 380
+el id es: Amphioxus su # de nc es: 1143
+longitud de mRNA 1143
+longitud de proteina 381

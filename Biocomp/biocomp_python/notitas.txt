@@ -1,0 +1,5 @@
+# este txt se crea con el fin de tener a la mano las librerias de python
+echo "Hola recuerda colocar python3 para abrir python en ubunto"
+echo " a continuacion te dare las bibliotecas"
+echo " Import Bio : from Bio.Seq import Seq  : from Bio import SeqIO"
+echo " from Bio.SeqRecord import SeqRecord"

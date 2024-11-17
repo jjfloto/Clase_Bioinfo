@@ -1,0 +1,14 @@
+#Punto numero 7
+En el panel A, prediciria que la cepa silvestre y la mutante alfa son
+las que más producen la fosfatasa alkalina. Debido a la mutación de la
+alfa esperaria que esta tuviera una menor produccion de este metabolito.
+Colocando las en un ranking de mayor a menor como: cepa silvestre(1)
+, cepa mutante alfa(2) y por ultimo cepa beta(3). Debido a que esta 
+ultima perdio una mayor cantidad de nucleotidos para la produccion del
+metabolito
+#punto numero 8
+Gracias al analisis bioinformatico vemos que la cepa silvestre y mutante
+alfa tienen un mismo tamaño de 472 codones, por lo que se deduciria que en 
+los posos 2 y 3 estuvieran, estas cepas. Mientras que en el poso 4 se 
+prediciria que esta presente la cepa mutante beta, debido a su menor 
+tamaño de 453 codones.

@@ -1,0 +1,22 @@
+En la carpeta se logran apreciar las distintas secuencias de proteinas utilizadas.
+Cada archivo cuenta con nombre inicial para reconocerlo facilmente. Siendo cada uno 
+de estos archivos con la palabra"Tumor" las secuencias query proteicas más similares
+a la proteína p53 (NP_000537.3) en humanos.
+
+Cada una de las secuencias proteicas se consolidaron en un solo archivo para lograr
+llevar acabo el analisis de alineamiento multiple siendo el archivo "aglomerado.fasta"
+, esta secuencia se llevo a clustal omega para el analisis de alineamiento y obtencion
+de la relación filogenetica entre las especias. El archivo que cuenta con el alineamiento
+es "clustalo_aglomerado....fasta", este se empleo gracias a la factibilidad que permite para
+analizar facilmente los resultados del alineamiento y la obtención de la relación filogenetica
+entre los organismos. Este sistema se utilizo debido a que usa el modelo Neighbor-Joining, el cual
+calcula la distancia acumulada entre las secuencias, favoreciendo a la determinacion cual especie
+esta mas cercana realmente una a la otra, además que permite tener una mayor flexibilidad al momento
+de tener que comparar y estudiar las secuencias. Ya que la matriz UPGM al calcular la distancia media y basarse en 
+esta permite que se obvien datos atipicos que pueden afectar los analisis de pruebas futuras.
+
+En la imagen llamada "arbol" en formato jpg podemos ver e inferir la relacion filogenetica entre
+cada una de las especies.
+
+
+

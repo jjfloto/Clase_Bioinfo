@@ -1,0 +1,192 @@
+#!/bin/bash
+# Este script se esta diseñando con la finalidad de iterar sobre los archivoplanteados como taller practico
+for archivo in *
+do
+    echo "Nombre del archivo: $archivo"
+done
+    1  ls
+    2  cd
+    3  pwd
+    4  mkdir bioccomp_clase
+    5  ls
+    6  move bioccomp_clase/
+    7  cp bioccomp_clase/
+    8  rmdir bioccomp_clase/
+    9  ls
+   10  mkdir biocomp_clase1
+   11  ls
+   12  cd biocomp_clase1/
+   13  ls
+   14  wget https://users.cs.duke.edu/~alvy/courses/unixtut/science.txt
+   15  ls
+   16  mkdir ejercicios
+   17  ls
+   18  wget https://users.cs.duke.edu/~alvy/courses/unixtut/science.bank
+   19  ls
+   20  wget https://users.cs.duke.edu/~alvy/courses/unixtut/science.txt -o science.bank
+   21  ls
+   22  rm science.txt.1
+   23  ls
+   24  mv science.bank ejercicios/
+   25  ls
+   26  tail -15 science.txt 
+   27  tail -10 science.txt 
+   28  less science.txt 
+   29  ls
+   30  nano miscript.sh
+   31  ls
+   32  bash miscript.shcc 
+   33  vim miscript.shcc 
+   34  bash miscript.shcc 
+   35  nano miscript.shcc 
+   36  bash miscript.shcc 
+   37  ls -l
+   38  chmod a+x miscript.shcc 
+   39  ./
+   40  ./miscript.shcc 
+   41  vim miscript.shcc 
+   42  bash miscript.shcc 
+   43  vim miscript.shcc 
+   44  bash miscript.shcc 
+   45  nano miscript.shcc 
+   46  counter
+   47  counter=1
+   48  ls
+   49  less miscript.shcc 
+   50  vim miscript.shcc 
+   51  less miscript.shcc 
+   52  bash miscript.shcc 
+   53  num=10
+   54  num2=43
+   55  if [ $num -gt $num2 ]; then echo "num es $num y es mayor que $num2" fi; ls; ls; cd cd bio bash miscript.shcc 
+   56  ls
+   57  vim miscript.shcc 
+   58  bash miscript.shcc 
+   59  vim miscript.shcc 
+   60  bash miscript.shcc 
+   61  ls -l
+   62  vim miscript.shcc 
+   63  bash miscript.shcc 
+   64  less miscript.shcc 
+   65  ls -l
+   66  ./miscript.shcc 
+   67  vim miscript.shcc 
+   68  bash miscript.shcc 
+   69  less miscript.shcc 
+   70  vim miscript.shcc 
+   71  bas miscript.shcc 
+   72  bash miscript.shcc 
+   73  vim miscript.shcc 
+   74  bash miscript.shcc 
+   75  vim miscript.shcc 
+   76  echo counter
+   77  echo $counter
+   78  $ nano while_loop.sh
+   79  #!/bin/bash
+   80  # Basic while loop
+   81  counter=1
+   82  while [ $counter -le 10 ]; do echo $counter; ((counter++)); done
+   83  echo $counter
+   84  vim miscript.shcc 
+   85  bash miscript.shcc 
+   86  vim miscript.shcc 
+   87  bash miscript.shcc 
+   88  vim miscript.shcc 
+   89  bash miscript.shcc 
+   90  vim miscript.shcc 
+   91  bash miscript.shcc 
+   92  ls
+   93  rm while.loop
+   94  mkdir sars_covid19
+   95  curl http://ftp.ensemblgenomes.org/pub/viruses/fasta/sars_cov_2/dna/Sars_cov_2.ASM985889v3.dna_rm.toplevel.fa.gz -o ./sars_covid19/Sars_cov.dna.fa.gz
+   96  curl http://ftp.ensemblgenomes.org/pub/viruses/fasta/sars_cov_2/pep/Sars_cov_2.ASM985889v3.pep.all.fa.gz -o ./sars_covid19/Sars_cov.prot.fa.gz
+   97  curl http://ftp.ensemblgenomes.org/pub/viruses/fasta/sars_cov_2/cds/Sars_cov_2.ASM985889v3.cds.all.fa.gz -o ./sars_covid19/Sars_cov.cds.fa.gz
+   98  cd sars_covid19/
+   99  curl http://ftp.ensemblgenomes.org/pub/viruses/fasta/sars_cov_2/dna/Sars_cov_2.ASM985889v3.dna_rm.toplevel.fa.gz -o ./sars_covid19/Sars_cov.dna.fa.gz
+  100  curl http://ftp.ensemblgenomes.org/pub/viruses/fasta/sars_cov_2/pep/Sars_cov_2.ASM985889v3.pep.all.fa.gz -o ./sars_covid19/Sars_cov.prot.fa.gz
+  101  curl http://ftp.ensemblgenomes.org/pub/viruses/fasta/sars_cov_2/cds/Sars_cov_2.ASM985889v3.cds.all.fa.gz -o ./sars_covid19/Sars_cov.cds.fa.gz
+  102  ls
+  103  cd
+  104  ls
+  105  cd biocomp_clase1/
+  106  ls
+  107  cd sars_covid19/
+  108  ls
+  109  curl http://ftp.ensemblgenomes.org/pub/viruses/fasta/sars_cov_2/dna/Sars_cov_2.ASM985889v3.dna_rm.toplevel.fa.gz -o ./sars_covid19/Sars_cov.dna.fa.gz
+  110  wget http://ftp.ensemblgenomes.org/pub/viruses/fasta/sars_cov_2/dna/Sars_cov_2.ASM985889v3.dna_rm.toplevel.fa.gz -o ./sars_covid19/Sars_cov.dna.fa.gz
+  111  ls
+  112  ../
+  113  .
+  114  ls
+  115  cd
+  116  cd biocomp_clase1/
+  117  ls
+  118  cd sars_covid19/
+  119  ls
+  120  cd
+  121  cd biocomp_clase1/
+  122  rmdir sars_covid19/
+  123  ls
+  124  mkdir sars_covid19
+  125  curl http://ftp.ensemblgenomes.org/pub/viruses/fasta/sars_cov_2/dna/Sars_cov_2.ASM985889v3.dna_rm.toplevel.fa.gz -o ./sars_covid19/Sars_cov.dna.fa.gz
+  126  curl http://ftp.ensemblgenomes.org/pub/viruses/fasta/sars_cov_2/pep/Sars_cov_2.ASM985889v3.pep.all.fa.gz -o ./sars_covid19/Sars_cov.prot.fa.gz
+  127  curl http://ftp.ensemblgenomes.org/pub/viruses/fasta/sars_cov_2/cds/Sars_cov_2.ASM985889v3.cds.all.fa.gz -o ./sars_covid19/Sars_cov.cds.fa.gz
+  128  ls
+  129  cd sa
+  130  cd sars_covid19/
+  131  ls
+  132  cd sars-covid19
+  133  ls
+  134  gunzip *.gz
+  135  for f in $(ls);     do wc -l $f;         done
+  136  ls
+  137  less Sars_cov.dna.fa 
+  138  ls
+  139  mkdir Taller1
+  140  ls
+  141  cd Taller1/
+  142  ls
+  143  wget https://raw.githubusercontent.com/lauraalazar/Online_BioInf/main/talleres/CytBDNA.txt
+  144  wget https://raw.githubusercontent.com/lauraalazar/Online_BioInf/main/talleres/CytBProt.txt
+  145  ls
+  146  nanocd
+  147  cd
+  148  ls
+  149  cd biocomp_clase1/
+  150  ls
+  151  bash miscript.shcc 
+  152  vim miscript.shcc 
+  153  cd
+  154  ls
+  155  snap
+  156  cd Taller1/
+  157  ls
+  158  cd
+  159  ls
+  160  snap
+  161  cd snap
+  162  ls
+  163  cd
+  164  cd biocomp_clase1/
+  165  ls
+  166  cd ejercicios/
+  167  ls
+  168  ..
+  169  ...
+  170  cd
+  171  cd Taller1/
+  172  ls
+  173  vim taller_didac.sh
+  174  ls
+  175  vim script_eval1_JuanFlorez.sh
+  176  bash script_eval1_JuanFlorez.sh 
+  177  ls
+  178  cd Taller1/
+  179  ls
+  180  bash script_eval1_JuanFlorez.sh 
+  181  chmod +x script_eval1_JuanFlorez.sh 
+  182  ls
+  183  ./script_eval1_JuanFlorez.sh 
+  184  cat script_eval1_JuanFlorez.sh > reporte1_JuanFlorez.txt
+  185  ls
+  186  history >> reporte1_JuanFlorez.txt 
